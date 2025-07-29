@@ -57,18 +57,10 @@
 
 ## 📫 Contacto
 
-<p align="center">
-  <a href="mailto:nixfe3826@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/JuanRivas1304">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
+## 🐍 A Snake Eating my Contributions Graph
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quote=If+it+works%2C+don%27t+touch+it." />
+  <img src="https://github.com/JuanRivas1304/JuanRivas1304/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
 </p>
+
 
