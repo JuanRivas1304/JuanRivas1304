@@ -69,7 +69,7 @@
 ## 🐍 A Snake Eating my Contributions Graph
 
 <p align="center">
-  <img src="https://github.com/JuanRivas1304/JuanRivas1304/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
+  <img src="https://github.com/JuanRivas1304/JuanRivas1304/blob/output/github-contribution-grid-snake.svg" alt="snake game"/>
 </p>
 
 
