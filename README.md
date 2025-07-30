@@ -45,9 +45,15 @@
 ## 📂 Proyectos destacados
 
 <p align="center">
-  <a href="https://github.com/JuanRivas1304/To-Do-List">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JuanRivas1304&repo=To-Do-List&theme=tokyonight" />
-  </a>
+  <!-- Imagen clickeable que lleva a la DEMO -->
+<a href="https://to-do-list-qb8e0l059-juanrivas1304s-projects.vercel.app/" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JuanRivas1304&repo=tTo-Do-List&theme=tokyonight" />
+</a>
+
+<!-- Enlace al código -->
+<p align="center">
+  🔗 <a href="https://github.com/JuanRivas1304/To-Do-List">Ver código To-Do List en GitHub</a>
+</p>
   <a href="https://github.com/JuanRivas1304/Calculadora">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JuanRivas1304&repo=Calculadora&theme=tokyonight" />
   </a>
@@ -58,7 +64,7 @@
 
 <!-- Enlace al código -->
 <p align="center">
-  🔗 <a href="https://github.com/JuanRivas1304/next14-jira-clone">Ver código en GitHub</a>
+  🔗 <a href="https://github.com/JuanRivas1304/next14-jira-clone">Ver código Jira Clone en GitHub</a>
 </p>
 </p>
 
