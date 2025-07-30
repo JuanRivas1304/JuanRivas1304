@@ -45,7 +45,7 @@
 ## 📂 Proyectos destacados
 
 <!-- 📋 To-Do List -->
-<a href="https://to-do-list-qb8e0l059-juanrivas1304s-projects.vercel.app/" target="_blank">
+<a href="https://to-do-list-qb8e0l059-juanrivas1304s-projects.vercel.app/" target="_blank" align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=JuanRivas1304&repo=To-Do-List&theme=tokyonight" />
 </a>
 <p align="center">
@@ -53,7 +53,7 @@
 </p>
 
 <!-- 🧮 Calculadora -->
-<a href="https://calculadora-blond-seven.vercel.app/" target="_blank">
+<a href="https://calculadora-blond-seven.vercel.app/" target="_blank" align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=JuanRivas1304&repo=Calculadora&theme=tokyonight" />
 </a>
 <p align="center">
@@ -61,7 +61,7 @@
 </p>
 
   <!-- Jira Clone -->
-<a href="https://next14-jira-clone-lzbz.vercel.app/" target="_blank">
+<a href="https://next14-jira-clone-lzbz.vercel.app/" target="_blank" align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=JuanRivas1304&repo=next14-jira-clone&theme=tokyonight" />
 </a>
 
