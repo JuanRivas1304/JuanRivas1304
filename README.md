@@ -9,7 +9,7 @@
 
 ## 🧑‍🎓 Sobre mí
 
-- 🎓 Estudiante de **Ingeniería de Software** (6° semestre)
+- 🎓 Estudiante de **Ingeniería de Software** (7° semestre)
 - ⚛️ Desarrollador frontend con enfoque en **React** y **Next.js**
 - 👨‍💻 Me encanta construir interfaces modernas y funcionales
 - 🔍 Siempre buscando aprender algo nuevo y mejorar mis habilidades
@@ -22,27 +22,39 @@
 ### 💻 Lenguajes
 
 <p align="center">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img alt="PYTHON" src="https://img.shields.io/badge/Python-%231572B6?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="HTML5" src="https://img.shields.io/badge/Html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img alt="CSS" src="https://img.shields.io/badge/Css-%231572B6?style=for-the-badge&logo=css&logoColor=white"/>
+
+ <!-- <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=white"/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-%231572B6.svg?style=plastic&logo=python&logoColor=white"/>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white"/>
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white"/>
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white"/>-->
 </p>
 
 ### 🧩 Frameworks y herramientas
 
 <p align="center">
-  <img alt="React" src="https://img.shields.io/badge/React-%2361DAFB.svg?style=plastic&logo=react&logoColor=black"/>
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-black?style=plastic&logo=next.js&logoColor=white"/>
+  <img alt="React" src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=react&logoColor=white"/>
+  
+  <!--<img alt="React" src="https://img.shields.io/badge/React-%2361DAFB.svg?style=plastic&logo=react&logoColor=black"/>
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-black?style=plastic&logo=next.js&logoColor=white"/>-->
 </p>
 
 ### 🖥️ Sistemas Operativos
 
 <p align="center">
-  <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6.svg?style=plastic&logo=windows&logoColor=white"/>
+
+  <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white"/>
+  
+  <!--<img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6.svg?style=plastic&logo=windows&logoColor=white"/>-->
 </p>
 
 ---
 
-## 📂 Proyectos destacados
+## 📂 Proyectos con deploy
 
 <div align="center">
 
@@ -73,7 +85,13 @@
 
 </div>
 
----
+## 📁 Proyectos sin deploy
+
+  <!-- OdontoSalud-->
+  <h4>OdontoSalud <a href="https://github.com/JuanRivas1304/OdontoSalud">🔗 Ver código</a></h4>
+  
+  <!-- Api Mensajeria-->
+  <h4>Api de Mensajeria <a href="https://github.com/JuanRivas1304/Api-Mensajeria">🔗 Ver código</a></h4>
 
 ## 📫 Contacto
 
@@ -81,10 +99,11 @@
   <a href="https://github.com/JuanRivas1304" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-JuanRivas1304-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=nixfe3826@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-nixfe3826@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+  <a href="mailto:nixfe3826@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-nixfe3826@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
+
 
 ## 🐍 Una serpiente devorando mis contribuciones
 
