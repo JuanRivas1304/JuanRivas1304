@@ -7,6 +7,12 @@
 
 <br>
 
+<div align="center">
+  <h1>
+   <a href="https://portafolio-eight-rho-22.vercel.app/">Mi Portafolio</a> ⬅️
+  </h1>
+</div>
+
 ## 🧑‍🎓 Sobre mí
 
 - 🎓 Estudiante de **Ingeniería de Software** (7° semestre)
@@ -99,8 +105,8 @@
   <a href="https://github.com/JuanRivas1304" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-JuanRivas1304-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:nixfe3826@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-nixfe3826@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:juandrivas66@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-juandrivas66@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
