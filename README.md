@@ -9,7 +9,7 @@
 
 <div align="center">
   <h1>
-   <a href="https://portafolio-eight-rho-22.vercel.app/">Mi Portafolio</a> ⬅️
+   <a href="https://portafolio-eight-rho-22.vercel.app/"> ➡️ Mi Portafolio</a> ⬅️
   </h1>
 </div>
 
@@ -29,6 +29,7 @@
 
 <p align="center">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img alt="Pytescript" src="https://img.shields.io/badge/TypeScript-1BB7FA?style=for-the-badge&logo=pytescript&logoColor=white"/>
   <img alt="PYTHON" src="https://img.shields.io/badge/Python-%231572B6?style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="HTML5" src="https://img.shields.io/badge/Html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS" src="https://img.shields.io/badge/Css-%231572B6?style=for-the-badge&logo=css&logoColor=white"/>
@@ -44,6 +45,7 @@
 <p align="center">
   <img alt="React" src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=react&logoColor=white"/>
+  <img alt="TailwindCss" src="https://img.shields.io/badge/TailwindCss-%231572B6?style=for-the-badge&logo=css&logoColor=white"/>
   
   <!--<img alt="React" src="https://img.shields.io/badge/React-%2361DAFB.svg?style=plastic&logo=react&logoColor=black"/>
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-black?style=plastic&logo=next.js&logoColor=white"/>-->
@@ -54,6 +56,7 @@
 <p align="center">
 
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-ECFA1B.svg?style=for-the-badge&logo=windows&logoColor=white"/>
   
   <!--<img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6.svg?style=plastic&logo=windows&logoColor=white"/>-->
 </p>
