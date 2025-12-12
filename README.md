@@ -94,10 +94,13 @@
 ## 📁 Proyectos sin deploy
 
   <!-- OdontoSalud-->
-  <h4>OdontoSalud <a href="https://github.com/JuanRivas1304/OdontoSalud">🔗 Ver código</a></h4>
+  <h4>Proyecto citas medicas de un centro odontologico <a href="https://github.com/JuanRivas1304/OdontoSalud">🔗 Ver código</a></h4>
   
   <!-- Api Mensajeria-->
   <h4>Api de Mensajeria <a href="https://github.com/JuanRivas1304/Api-Mensajeria">🔗 Ver código</a></h4>
+
+  <!-- Proyecto Frases aleatorias-->
+  <h4>Frases Aleatorias <a href="https://github.com/JuanRivas1304/Frases-Motivacionales.git">🔗 Ver código</a></h4>
 
 ## 📫 Contacto
 
