@@ -105,6 +105,8 @@
   <!-- Proyecto Frases aleatorias-->
   <h4>Frases Aleatorias <a href="https://github.com/JuanRivas1304/Frases-Motivacionales.git">🔗 Ver código</a></h4>
 
+  <h4>Buscador de peliculas con OMDb<a href="https://github.com/JuanRivas1304/buscador-de-peliculas-con-OMDB.git">🔗 Ver código</a></h4>
+
 ## 📫 Contacto
 
 <p align="center">
