@@ -92,6 +92,15 @@
 <br />
 <a href="https://github.com/JuanRivas1304/next14-jira-clone">🔗 Ver código en GitHub</a>
 
+<br /><br />
+
+<!--Havit Tracker-->
+<a href="https://habit-tracker-plum-sigma.vercel.app/" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JuanRivas1304&repo=Habit-Tracker&theme=tokyonight" />
+</a>
+<br />
+<a href="https://github.com/JuanRivas1304/Habit-Tracker">🔗 Ver código en GitHub</a>
+
 </div>
 
 ## 📁 Proyectos sin deploy
